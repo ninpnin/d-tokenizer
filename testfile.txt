@@ -1,0 +1,1 @@
+Read entire contents of file name and returns it as an untyped array. If the file size is larger than upTo, only upTo bytes are read
